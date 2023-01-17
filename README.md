@@ -6,7 +6,7 @@
 - Fully Responsive
 - Menu Animations
 
-### 👁️[ View Online](https://frontiago.github.io/food-props/)
+### 👁️[ View Online](https://frontiago-food-props.netlify.app)
 
 ---
 
