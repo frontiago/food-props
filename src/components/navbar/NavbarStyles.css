@@ -1,4 +1,4 @@
-    .navbar {
+.navbar {
     width: 100%;
     height: 80px;
     border-bottom: 1px solid #333;
@@ -30,6 +30,22 @@
     font-family: 'Source Serif 4', sans-serif;
     text-transform: uppercase;
     font-size: 1.2rem;
+}
+
+.navbar li a {
+    color: #000;
+}
+
+.navbar .active li a {
+    color: var(--primary-color);
+}
+
+.navbar-bg li a{
+    color: var(--primary-color);
+}
+
+.navbar li a:hover, .navbar-bg li a:hover {
+    opacity: 0.8;
 }
 
 .hamburger {

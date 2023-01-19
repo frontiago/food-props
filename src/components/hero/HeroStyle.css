@@ -27,3 +27,7 @@
     margin: 1rem 1rem 1rem 0;
     width: 200px;
 }
+
+.hero .btn:hover {
+    opacity: 0.5;
+}
